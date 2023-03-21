@@ -1,4 +1,4 @@
-import { addOrg, addOrganization } from "../page_objects/addOrganization";
+import { addOrganization } from "../page_objects/addOrganization";
 import { loginPage } from "../page_objects/loginPage"
 
 let loginData = {
